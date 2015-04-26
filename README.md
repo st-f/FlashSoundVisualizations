@@ -8,7 +8,7 @@ A few experiments on visualizing sound in Flash, using files or the microphone.
 
 **Development time:** 2 weeks
 
-**Requirements :**
+**Tools :**
 
 - Adobe AIR
 - Flex 4.6
